@@ -19,7 +19,7 @@ From [Wikipedia][bubble-wiki]: 버블 소트(sinking sor라고도 불리움)는 
 - 최악의 성능 O(n^2)
 - 최고의 성능 O(n)
 - 평균 성능 O(n^2)
-
+  abcd
 ###### View the algorithm in [action][bubble-toptal]
 
 ### Insertion(삽입 정렬)
